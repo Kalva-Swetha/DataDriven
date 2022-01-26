@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-23T14:54:04 IST" name="Default suite" finished-at="2022-01-23T14:56:12 IST" duration-ms="127130">
+  <suite started-at="2022-01-26T14:27:21 IST" name="DataDriven" finished-at="2022-01-26T14:29:02 IST" duration-ms="100734">
     <groups>
     </groups>
-    <test started-at="2022-01-23T14:54:04 IST" name="Default test" finished-at="2022-01-23T14:56:12 IST" duration-ms="127130">
+    <test started-at="2022-01-26T14:27:21 IST" name="DataDrivenPro" finished-at="2022-01-26T14:29:02 IST" duration-ms="100734">
       <class name="testCases.RegisterStudent_DataProviderTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:05 IST" name="setUp" finished-at="2022-01-23T14:54:19 IST" duration-ms="13049" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:22 IST" name="setUp" finished-at="2022-01-26T14:27:38 IST" duration-ms="16442" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:19 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:54:20 IST" duration-ms="1371" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:38 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:27:40 IST" duration-ms="1265" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,15 +52,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:20 IST" name="tearDown" finished-at="2022-01-23T14:54:21 IST" duration-ms="1201" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:40 IST" name="tearDown" finished-at="2022-01-26T14:27:41 IST" duration-ms="986" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:21 IST" name="setUp" finished-at="2022-01-23T14:54:32 IST" duration-ms="10940" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:41 IST" name="setUp" finished-at="2022-01-26T14:27:52 IST" duration-ms="11222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:32 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:54:33 IST" duration-ms="1315" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:52 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:27:53 IST" duration-ms="1216" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -101,15 +101,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:33 IST" name="tearDown" finished-at="2022-01-23T14:54:34 IST" duration-ms="1084" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:53 IST" name="tearDown" finished-at="2022-01-26T14:27:54 IST" duration-ms="993" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:34 IST" name="setUp" finished-at="2022-01-23T14:54:48 IST" duration-ms="13436" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:27:54 IST" name="setUp" finished-at="2022-01-26T14:28:05 IST" duration-ms="10928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:48 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:54:49 IST" duration-ms="1142" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:05 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:28:06 IST" duration-ms="1059" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -150,15 +150,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:49 IST" name="tearDown" finished-at="2022-01-23T14:54:50 IST" duration-ms="959" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:06 IST" name="tearDown" finished-at="2022-01-26T14:28:07 IST" duration-ms="972" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:54:50 IST" name="setUp" finished-at="2022-01-23T14:55:08 IST" duration-ms="17690" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:07 IST" name="setUp" finished-at="2022-01-26T14:28:17 IST" duration-ms="10197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:08 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:55:09 IST" duration-ms="1137" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:17 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:28:19 IST" duration-ms="1770" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -199,15 +199,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:09 IST" name="tearDown" finished-at="2022-01-23T14:55:10 IST" duration-ms="903" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:19 IST" name="tearDown" finished-at="2022-01-26T14:28:20 IST" duration-ms="1330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:10 IST" name="setUp" finished-at="2022-01-23T14:55:33 IST" duration-ms="23387" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:20 IST" name="setUp" finished-at="2022-01-26T14:28:30 IST" duration-ms="9912" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:33 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:55:35 IST" duration-ms="1762" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:30 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:28:32 IST" duration-ms="1497" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -248,15 +248,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:35 IST" name="tearDown" finished-at="2022-01-23T14:55:36 IST" duration-ms="1208" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:32 IST" name="tearDown" finished-at="2022-01-26T14:28:33 IST" duration-ms="1355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:36 IST" name="setUp" finished-at="2022-01-23T14:55:51 IST" duration-ms="15287" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:33 IST" name="setUp" finished-at="2022-01-26T14:28:42 IST" duration-ms="8699" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:51 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:55:53 IST" duration-ms="1145" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:42 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:28:43 IST" duration-ms="1096" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -297,15 +297,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:53 IST" name="tearDown" finished-at="2022-01-23T14:55:54 IST" duration-ms="1026" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:43 IST" name="tearDown" finished-at="2022-01-26T14:28:44 IST" duration-ms="1091" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:55:54 IST" name="setUp" finished-at="2022-01-23T14:56:10 IST" duration-ms="15944" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:44 IST" name="setUp" finished-at="2022-01-26T14:28:58 IST" duration-ms="13767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:56:10 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-23T14:56:11 IST" duration-ms="1089" status="PASS">
+        <test-method signature="pageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:28:58 IST" name="pageTest" data-provider="getTestData" finished-at="2022-01-26T14:29:00 IST" duration-ms="2510" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -346,11 +346,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-23T14:56:11 IST" name="tearDown" finished-at="2022-01-23T14:56:12 IST" duration-ms="933" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterStudent_DataProviderTest@6d4e5011]" started-at="2022-01-26T14:29:00 IST" name="tearDown" finished-at="2022-01-26T14:29:02 IST" duration-ms="1379" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.RegisterStudent_DataProviderTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- DataDrivenPro -->
+  </suite> <!-- DataDriven -->
 </testng-results>
